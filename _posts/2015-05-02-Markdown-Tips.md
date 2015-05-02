@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown 语法总结
+title: Markdown Tips
 modified: 2015-05-02
 categories: [Blog Building]
 tags:

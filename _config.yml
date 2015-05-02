@@ -5,7 +5,8 @@ author: learned from Lijia Yu
 email: ludafei@dratio.com
 description: "This is a personal blog" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Luffy, Data"
-url: "http://ludafei.com" # the base hostname & protocol for your site
+baseurl: "/luffy" # the subpath of your site, e.g. /blog
+url: "http://ludafei.com/luffy" # the base hostname & protocol for your site
 locale: Chaoyang Beijing, China
 
 ### Personal info and site tools info:

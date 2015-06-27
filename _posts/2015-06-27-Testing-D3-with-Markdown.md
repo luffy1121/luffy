@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Testing d3 with Markdown"
-modified:   2014-03-26 13:12:00
+modified:   2015-06-27 13:12:00
 ---
 
 This is from a [Stack Overflow question](http://stackoverflow.com/questions/22651346/how-to-embed-a-d3-js-example-to-the-jekyll-blog-post) about embedding a d3.js example in a Jekyll blog post (written in Markdown).
